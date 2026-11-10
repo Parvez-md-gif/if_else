@@ -14,12 +14,12 @@
 # else:
 #     print("Fail")
 
-character = input("Enter a character: ")
+#character = input("Enter a character: ")
 
-if character.isalpha():
-    if character.lower() in "aeiou":
-        print("it is vowels")
-    else:
-        print("it is consonants")
-else:
-    print("it is not alphabet")
+#if character.isalpha():
+#    if character.lower() in "aeiou":
+#        print("it is vowels")
+#    else:
+#        print("it is consonants")
+#else:
+#    print("it is not alphabet")
